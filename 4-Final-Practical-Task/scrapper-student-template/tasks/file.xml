@@ -1,0 +1,29 @@
+<rss version="2.0">
+    <channel>
+        <title>Yahoo News - Latest News & Headlines</title>
+        <link>https://news.yahoo.com/rss</link>
+        <description>Yahoo news description</description>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 20 Oct 2019 04:21:44 +0300</lastBuildDate>
+        <managingEditor>editor@yahoo.com</managingEditor>
+        <pubDate>Sun, 20 Oct 2019 04:21:44 +0300</pubDate>
+        <category>News</category>
+        <category>World</category>
+        <item>
+            <title>Nestor heads into Georgia after tornados damage Florida</title>
+            <author>author1@yahoo.com</author>
+            <pubDate>Sun, 20 Oct 2019 04:21:44 +0300</pubDate>
+            <link>https://news.yahoo.com/wet-weekend-tropical-storm-warnings-131131925.html</link>
+            <category>Weather</category>
+            <description>Nestor raced across Georgia as a post-tropical cyclone late Saturday, hours after the former tropical storm spawned a tornado that damaged homes and a school in central Florida while sparing areas of the Florida Panhandle devastated one year earlier by Hurricane Michael. The storm made landfall Saturday on St. Vincent Island, a nature preserve off Florida's northern Gulf Coast in a lightly populated area of the state, the National Hurricane Center said. Nestor was expected to bring 1 to 3 inches of rain to drought-stricken inland areas on its march across a swath of the U.S. Southeast...</description>
+        </item>
+        <item>
+            <title>Some Other Title</title>
+            <author>author2@yahoo.com</author>
+            <pubDate>Sun, 20 Oct 2019 04:21:44 +0300</pubDate>
+            <link>https://some.other.link/some-other-news</link>
+            <category>General</category>
+            <description>Some other new cool information.</description>
+        </item>
+    </channel>
+</rss>
